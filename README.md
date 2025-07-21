@@ -1,4 +1,4 @@
-  <h2 align="center">👋 Olá, Eu sou a <strong>Priscillafm879</strong></h2>
+<h2 align="center">👋 Olá, Eu sou a <strong>Priscilla</strong></h2>
   <p align="center">💻 Estudante de Tecnologia em Sistemas de Computação na UFF</p>
   <p align="center">🎯 Em busca de uma oportunidade de estágio na área de tecnologia</p>
 
@@ -6,9 +6,10 @@
   <h3 align="center">🚀 Tecnologias que estou aprendendo:</h3>
   <div style="text-align: center; margin-bottom: 20px;">
     <p align="center">
+        <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
         <img alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
       </p>
   </div>
@@ -33,3 +34,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscillafm879&layout=compact&theme=blueberry">
   </p>
 </div>
+
