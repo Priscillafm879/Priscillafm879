@@ -27,11 +27,8 @@
     </a>
   </p>
 
-  <!-- GitHub Stats -->
-  <h3 align="center">📊 GitHub Stats:</h3>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Priscillafm879&show_icons=true&theme=blueberry">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscillafm879&layout=compact&theme=blueberry">
-  </p>
-</div>
+  
+
+
+
 
