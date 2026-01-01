@@ -1,22 +1,58 @@
-<h2 align="center">👋 Olá! Eu sou a <strong>Priscilla</strong></h2>
-  <p align="center">💻 Estudante de Tecnologia em Sistemas de Computação na UFF</p>
-  <p align="center">🚀 Sou apaixonada por tecnologia e aprendizado contínuo. Estou sempre em busca de novos desafios que me permitam evoluir e contribuir com soluções criativas e eficientes.</p>
-  <p align="center">🏆 O que estou buscando: *Primeira oportunidade de estágio em TI; *Aprender com equipes experientes;
-      *Participar de projetos reais e evoluir minhas habilidades técnicas. </p>
+# 👋 Olá! Eu sou a Priscilla
 
-  <!-- Habilidades -->
-  <h3 align="center"> 🧠 Tecnologias & Ferramentas que estou aprendendo:</h3>
-  <div style="text-align: center; margin-bottom: 20px;">
-    <p align="center">
-        <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-        <img alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-        <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-    </p>
-  </div>
-  <!-- Contato e redes sociais -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Estudante%20de%20TI-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Universidade-UFF-0055A4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foco-Estágio%20em%20TI-success?style=for-the-badge" />
+</p>
+
+💻 **Estudante de Tecnologia em Sistemas de Computação – UFF**
+
+🚀 **Desenvolvedora em formação | Foco em aprendizado contínuo e prática real**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+---
+
+## ✨ Sobre mim
+
+Sou apaixonada por tecnologia e pelo poder que ela tem de transformar ideias em soluções reais. Estou em constante aprendizado, buscando evoluir tanto tecnicamente quanto profissionalmente, sempre com curiosidade, dedicação e vontade de crescer.
+
+Utilizo este GitHub como um **portfólio vivo**, onde registro minha evolução, estudos, projetos acadêmicos e experimentos práticos.
+
+---
+
+## 🎯 O que estou buscando
+
+* 💼 **Primeira oportunidade de estágio em TI**
+* 🤝 Aprender com equipes experientes e colaborativas
+* 🛠️ Participar de projetos reais e desafiadores
+* 📈 Evoluir continuamente minhas habilidades técnicas e profissionais
+
+---
+
+## 🧠 Tecnologias & Ferramentas em aprendizado
+
+**Linguagens:**
+
+* 🐍 Python
+* ☕ Java
+* 🟨 JavaScript
+* 🌐 HTML & CSS
+
+**Ferramentas:**
+
+* Git & GitHub
+* VS Code
+---
+<!-- Contato e redes sociais -->
   <p align="center">
     <a href="https://www.linkedin.com" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -29,14 +65,20 @@
     </a>
     <p align="center">✨ Acreditando no processo, aprendendo sempre e pronta para novos desafios!</p>
   </p>
-<!-- GitHub Stats -->
-  <h3 align="center">📊 GitHub Stats:</h3>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Priscillafm879&show_icons=true&theme=blueberry">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscillafm879&layout=compact&theme=blueberry">
-  </p>
-</div>
-  
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+
+
+
+
 
 
 
