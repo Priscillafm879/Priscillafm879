@@ -8,15 +8,15 @@
 
 💻 **Estudante de Tecnologia em Sistemas de Computação – UFF**
 
-🚀 **Desenvolvedora em formação | Foco em aprendizado contínuo e prática real**
+🚀 **Foco em aprendizado contínuo**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
 </p>
 
 ---
@@ -66,15 +66,6 @@ Utilizo este GitHub como um **portfólio vivo**, onde registro minha evolução,
     </a>
     <p align="center">✨ Acreditando no processo, aprendendo sempre e pronta para novos desafios!</p>
   </p>
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
 
 
 
