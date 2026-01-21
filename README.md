@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
 </p>
 
 ---
@@ -46,6 +48,7 @@ Utilizo este GitHub como um **portfólio vivo**, onde registro minha evolução,
 * ☕ Java
 * 🟨 JavaScript
 * 🌐 HTML & CSS
+* 🗄️ SQL
 
 **Ferramentas:**
 
