@@ -25,7 +25,7 @@
 
 ## ✨ Sobre mim
 
-Sou apaixonada por tecnologia e pelo poder que ela tem de transformar ideias em soluções reais. Estou em constante aprendizado, buscando evoluir tanto tecnicamente quanto profissionalmente, sempre com curiosidade, dedicação e vontade de crescer.
+Sou apaixonada por tecnologia e pelo poder que ela tem de transformar idéias em soluções reais. Estou em constante aprendizado, buscando evoluir tanto tecnicamente quanto profissionalmente, sempre com curiosidade, dedicação e vontade de crescer.
 
 Utilizo este GitHub como um **portfólio vivo**, onde registro minha evolução, estudos, projetos acadêmicos e experimentos práticos.
 
