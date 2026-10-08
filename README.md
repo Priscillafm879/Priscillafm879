@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 
 </p>
 
@@ -26,17 +27,6 @@
 ## ✨ Sobre mim
 
 Sou apaixonada por tecnologia e pelo poder que ela tem de transformar idéias em soluções reais. Estou em constante aprendizado, buscando evoluir tanto tecnicamente quanto profissionalmente, sempre com curiosidade, dedicação e vontade de crescer.
-
-Utilizo este GitHub como um **portfólio vivo**, onde registro minha evolução, estudos, projetos acadêmicos e experimentos práticos.
-
----
-
-## 🎯 O que estou buscando
-
-* 💼 **Primeira oportunidade de estágio em TI**
-* 🤝 Aprender com equipes experientes e colaborativas
-* 🛠️ Participar de projetos reais e desafiadores
-* 📈 Evoluir continuamente minhas habilidades técnicas e profissionais
 
 ---
 
@@ -48,6 +38,7 @@ Utilizo este GitHub como um **portfólio vivo**, onde registro minha evolução,
 * ☕ Java
 * 🟨 JavaScript
 * 🌐 HTML & CSS
+* 🐘 PHP
 * 🗄️ SQL
 
 **Ferramentas:**
