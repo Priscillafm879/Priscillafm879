@@ -46,20 +46,7 @@ Sou apaixonada por tecnologia e pelo poder que ela tem de transformar idéias em
 * Git & GitHub
 * VS Code
 ---
-<!-- Contato e redes sociais -->
-📧 Email: priscillafm879@gmail.com
-  <p align="center">
-    <a href="https://www.linkedin.com" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://www.instagram.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href="https://discord.com" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
-    <p align="center">✨ Acreditando no processo, aprendendo sempre e pronta para novos desafios!</p>
-  </p>
+
 
 
 
